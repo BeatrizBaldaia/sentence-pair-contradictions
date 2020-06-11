@@ -1,2 +1,2 @@
 # sentence-pair-contradictions
-I am making available the datasets used in my Master's research project which explores transfer learning for the task of detecting contradictions. Please read the document [Datasets for Detecting Contradictions]{Datasets for Detecting Contradictions.pdf} for a better understanding of the datasets' structure and content.
+I am making available the datasets used in my Master's research project which explores transfer learning for the task of detecting contradictions. Please read the document [Datasets for Detecting Contradictions](https://github.com/BeatrizBaldaia/sentence-pair-contradictions/blob/master/Datasets%20for%20Detecting%20Contradictions.pdf) for a better understanding of the datasets' structure and content.
